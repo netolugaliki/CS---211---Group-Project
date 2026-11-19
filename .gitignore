@@ -1,0 +1,9 @@
+group_info.txt
+savegame.txt
+*.exe
+*.o
+game2048_app
+luhn_app
+unit_tests
+test_run/
+__pycache__/
